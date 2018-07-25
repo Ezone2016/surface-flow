@@ -43,6 +43,5 @@ ToDo
 Reference
 ------------
 
-.. [Mullins1957] W. W. Mullins, `
-Theory of Thermal Grooving <https://aip.scitation.org/doi/10.1063/1.1722742>`_, Journal of Applied Physics 28, 333 (1957)
+.. [Mullins1957] W. W. Mullins, `Theory of Thermal Grooving <https://aip.scitation.org/doi/10.1063/1.1722742>`_, Journal of Applied Physics 28, 333 (1957)
 
