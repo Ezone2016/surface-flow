@@ -1,7 +1,7 @@
 some paraview post-processing scripts to highlight different orientations in colour
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 **what**
-   Minimising surface energy by **surface diffusion** (surface divergence of the mean curvature) [Mullins1957]_. This is not equivalent to evolving shape by surface tension (mean curvature). The regularisation method used is well-documented in [Torabi et al.2009]_ and the gamma construction method is due to [Siem&Carter2005]_.
+   Minimising surface energy by **surface diffusion** (surface divergence of the mean curvature) [Mullins1957]_. This is not equivalent to evolving shape by surface tension (mean curvature). The regularisation method used is well-documented in [Torabi2009]_ and the gamma construction method is due to [Siem2005]_.
 
 .. image:: https://github.com/Ezone2016/surface-flow/blob/master/sequence.gif
 
@@ -50,6 +50,6 @@ Reference
 .. [Herring1951] C. Herring
 , `Surface Tension as a Motivation for Sintering, The Physics of Powder Metallurgy, p. 143, McGraw-Hill, New York (1951)
 
-.. [Torabi et al.2009] S. Torabi, J. Lowengrub, A. Voigt, S. Wise, `A new phase-field model for strongly anisotropic systems <http://rspa.royalsocietypublishing.org/content/465/2105/1337>`_, Proc. R. Soc., 465 1337-1359 (2009)
+.. [Torabi2009] S. Torabi, J. Lowengrub, A. Voigt, S. Wise, `A new phase-field model for strongly anisotropic systems <http://rspa.royalsocietypublishing.org/content/465/2105/1337>`_, Proc. R. Soc., 465 1337-1359 (2009)
 
-.. [Siem&Carter2005] E. J. Siem, W. C. Carter, `Orientation-dependent surface tension functions for surface energy minimizing calculations <https://link.springer.com/article/10.1007/s10853-005-2671-7>`_, Journal of Materials Science, Volume 40, Issue 12, pp 3107–3113  (2005)
+.. [Siem2005] E. J. Siem, W. C. Carter, `Orientation-dependent surface tension functions for surface energy minimizing calculations <https://link.springer.com/article/10.1007/s10853-005-2671-7>`_, Journal of Materials Science, Volume 40, Issue 12, pp 3107–3113  (2005)
