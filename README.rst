@@ -1,7 +1,7 @@
 some paraview post-processing scripts to highlight different orientations in colour
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 **what**
-   Minimising surface energy by **surface diffusion** (surface divergence of the mean curvature) [Mullins1957]. This is not equivalent to evolving shape by surface tension (mean curvature)
+   Minimising surface energy by **surface diffusion** (surface divergence of the mean curvature) [Mullins1957]_. This is not equivalent to evolving shape by surface tension (mean curvature)
 
 .. image:: https://github.com/Ezone2016/surface-flow/blob/master/sequence.gif
 
@@ -34,3 +34,15 @@ some paraview post-processing scripts to highlight different orientations in col
 - A much easier example of a cubic crystal can be seen down below 
 
 .. image:: https://github.com/Ezone2016/surface-flow/blob/master/cubicA2.png
+
+ToDo
+------------
+
+- kinetics of deposition by ballistic transport
+
+Reference
+------------
+
+.. [Mullins1957] W. W. Mullins, `
+Theory of Thermal Grooving <https://aip.scitation.org/doi/10.1063/1.1722742>`_, Journal of Applied Physics 28, 333 (1957)
+
