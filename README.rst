@@ -45,7 +45,7 @@ Reference
 
 .. [Mullins1957] W.W. Mullins, `Theory of Thermal Grooving <https://aip.scitation.org/doi/10.1063/1.1722742>`_, Journal of Applied Physics 28, 333 (1957)
 
-.. [Sekerka2005] R.F. Sekerka, `Theory of Thermal Grooving <https://www.sciencedirect.com/science/article/pii/S0022024804013843?via%3Dihub>`_, Journal of Crystal Growth, Volume 275, Issues 1–2 (2005)
+.. [Sekerka2005] R.F. Sekerka, `Analytical criteria for missing orientations on three-dimensional equilibrium shapes <https://www.sciencedirect.com/science/article/pii/S0022024804013843?via%3Dihub>`_, Journal of Crystal Growth, Volume 275, Issues 1–2 (2005)
 
 .. [Herring1951] C.Herring, `Surface Tension as a Motivation for Sintering, The Physics of Powder Metallurgy, p. 143, McGraw-Hill, New York (1951)
 
