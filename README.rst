@@ -28,7 +28,7 @@ some paraview post-processing scripts to highlight different orientations in col
 
 .. image:: https://github.com/Ezone2016/surface-flow/blob/master/cig.png
 
-- coloring the surfaces by orientations. This is done in paraview (see 001.py, 112.py etc.)
+- Finally colour the surfaces by orientations. This is done in paraview (see 001.py, 112.py etc.)
 .. image:: https://github.com/Ezone2016/surface-flow/blob/master/sequence2.gif
 
 - A much easier example of a cubic crystal can be seen down below 
