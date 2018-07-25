@@ -10,7 +10,7 @@ some paraview post-processing scripts to highlight different orientations in col
 
 .. image:: https://github.com/Ezone2016/surface-flow/blob/master/surfaces.jpg
 
-- gamma-plot is obtained by fine tuning of the parameters alpha and w to ensure no overlapping between the energy minima
+- gamma-plot is obtained by fine tuning of the parameters alpha and w to ensure no overlapping between the energy minima. The units of xyz are dimensionless as gamma is normalised by gamma_0
 
 .. image:: https://github.com/Ezone2016/surface-flow/blob/master/gamma.png
 
@@ -34,6 +34,10 @@ some paraview post-processing scripts to highlight different orientations in col
 - A much easier example of a cubic crystal can be seen down below 
 
 .. image:: https://github.com/Ezone2016/surface-flow/blob/master/cubicA2.png
+
+- and an even simplier example in 2D
+
+.. image:: https://github.com/Ezone2016/surface-flow/blob/master/cubic2d.png
 
 ToDo
 ------------
