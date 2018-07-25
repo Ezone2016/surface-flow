@@ -20,7 +20,7 @@ some paraview post-processing scripts to highlight different orientations in col
 
 .. image:: https://github.com/Ezone2016/surface-flow/blob/master/xi.png
 
-- missing orientations are found by means of the inverse-gamma-plot [Herring1950] and the well-known crition [Sekerka2005]
+- missing orientations are found by means of the inverse-gamma-plot [Herring1950] and the well-known crition [Sekerka2005]_
 
 .. image:: https://github.com/Ezone2016/surface-flow/blob/master/inverse1.png
 
@@ -44,4 +44,6 @@ Reference
 ------------
 
 .. [Mullins1957] W. W. Mullins, `Theory of Thermal Grooving <https://aip.scitation.org/doi/10.1063/1.1722742>`_, Journal of Applied Physics 28, 333 (1957)
+
+.. [Sekerka2005] R. F. Sekerka, `Theory of Thermal Grooving <https://www.sciencedirect.com/science/article/pii/S0022024804013843?via%3Dihub>`_, Journal of Crystal Growth, Volume 275, Issues 1–2 (2005)
 
