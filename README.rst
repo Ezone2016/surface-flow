@@ -20,7 +20,7 @@ some paraview post-processing scripts to highlight different orientations in col
 
 .. image:: https://github.com/Ezone2016/surface-flow/blob/master/xi.png
 
-- missing orientations are found by means of the inverse-gamma-plot and the well-known crition [Sekerka2005]
+- missing orientations are found by means of the inverse-gamma-plot [Herring1950] and the well-known crition [Sekerka2005]
 
 .. image:: https://github.com/Ezone2016/surface-flow/blob/master/inverse1.png
 
