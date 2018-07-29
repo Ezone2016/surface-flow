@@ -8,9 +8,15 @@ some paraview post-processing scripts to highlight different orientations in col
 **how**
     - The surfaces of different families are identified and the surface energy associated with the surface are specified.
 
-.. image:: https://github.com/Ezone2016/surface-flow/blob/master/surfaces.jpg
+.. image:: https://github.com/Ezone2016/surface-flow/blob/master/surfaces.png
+
+- the alpha values are normalised according to:
+
+.. image:: https://github.com/Ezone2016/surface-flow/blob/master/eq1.png
 
 - gamma-plot is obtained by fine tuning of the parameters alpha and w to ensure no overlapping between the energy minima. The units of xyz are dimensionless as gamma is normalised by gamma_0
+
+.. image:: https://github.com/Ezone2016/surface-flow/blob/master/eq2.png
 
 .. image:: https://github.com/Ezone2016/surface-flow/blob/master/gamma.png
 
