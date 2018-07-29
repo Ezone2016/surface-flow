@@ -16,13 +16,13 @@ some paraview post-processing scripts to highlight different orientations in col
 
 - gamma-plot is obtained by fine tuning of the parameters alpha and w to ensure no overlapping between the energy minima. The units of xyz are dimensionless as gamma is normalised by gamma_0
 
-.. image:: https://github.com/Ezone2016/surface-flow/blob/master/eq2.png
-
 .. image:: https://github.com/Ezone2016/surface-flow/blob/master/gamma.png
 
-- similarly xi vector is obtained by differentiating $\hat{\gamma}=P\gamma(\vec{n})$ in P space where $P=r\gamma$
+.. image:: https://github.com/Ezone2016/surface-flow/blob/master/eq2.png
 
-     $ \vec{\xi}=\nabla_{P}\hat{\gamma}$
+- similarly xi vector is obtained by differentiating $\hat{\gamma}=r\gamma(\vec{n})$ in $r$ space where $\vec{r}$ is the position vector
+
+.. image:: https://github.com/Ezone2016/surface-flow/blob/master/eq4.png
 
 .. image:: https://github.com/Ezone2016/surface-flow/blob/master/xi.png
 
@@ -36,14 +36,6 @@ some paraview post-processing scripts to highlight different orientations in col
 
 - Finally colour the surfaces by orientations. This is done in paraview (see 001.py, 112.py etc.)
 .. image:: https://github.com/Ezone2016/surface-flow/blob/master/sequence2.gif
-
-- A much easier example of a cubic crystal can be seen down below 
-
-.. image:: https://github.com/Ezone2016/surface-flow/blob/master/cubicA2.png
-
-- and an even simplier example in 2D
-
-.. image:: https://github.com/Ezone2016/surface-flow/blob/master/cubic2d.png
 
 ToDo
 ------------
