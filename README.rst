@@ -22,7 +22,7 @@ some paraview post-processing scripts to highlight different orientations in col
 
 - similarly xi vector is obtained by differentiating $\hat{\gamma}=r\gamma(\vec{n})$ in $r$ space where $\vec{r}$ is the position vector
 
-.. image:: https://github.com/Ezone2016/surface-flow/blob/master/eq4.png
+.. image:: https://github.com/Ezone2016/surface-flow/blob/master/eq3.png
 
 .. image:: https://github.com/Ezone2016/surface-flow/blob/master/xi.png
 
@@ -30,11 +30,14 @@ some paraview post-processing scripts to highlight different orientations in col
 
 .. image:: https://github.com/Ezone2016/surface-flow/blob/master/inverse1.png
 
-.. image:: https://github.com/Ezone2016/surface-flow/blob/master/inverse2.png
+.. image:: https://github.com/Ezone2016/surface-flow/blob/master/inverse.stl
 
-.. image:: https://github.com/Ezone2016/surface-flow/blob/master/cig.png
+- of course the equilirium shape is only bounded by 8 {101} surfaces - a result that can be easily deduced from Wulff construction. Here we demonstrate that the convexified xi-plot gives the equivalent result:
 
-- Finally colour the surfaces by orientations. This is done in paraview (see 001.py, 112.py etc.)
+.. image:: https://github.com/Ezone2016/surface-flow/blob/master/eq.png
+
+- however the time it requires to reach this state follows a power law according to Mullins and it's heavily dependent on particle size. Since the transient shape is of interest here we only allow it to evolve for certain time. The result is shown below. Finally colour the surfaces by orientations. This is done in paraview (see 001.py, 112.py etc.)
+
 .. image:: https://github.com/Ezone2016/surface-flow/blob/master/sequence2.gif
 
 ToDo
