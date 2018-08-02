@@ -30,8 +30,6 @@ some paraview post-processing scripts to highlight different orientations in col
 
 .. image:: https://github.com/Ezone2016/surface-flow/blob/master/inverse1.png
 
-.. image:: https://github.com/Ezone2016/surface-flow/blob/master/inverse.stl
-
 - of course the equilirium shape is only bounded by 8 {101} surfaces - a result that can be easily deduced from Wulff construction. Here we demonstrate that the convexified xi-plot gives the equivalent result:
 
 .. image:: https://github.com/Ezone2016/surface-flow/blob/master/eq.png
