@@ -34,7 +34,7 @@ some paraview post-processing scripts to highlight different orientations in col
 
 .. image:: https://github.com/Ezone2016/surface-flow/blob/master/eq.png
 
-- however the time it requires to reach this state follows a power law according to Mullins and it's heavily dependent on particle size. Since the transient shape is of interest here we only allow it to evolve for certain time. The result is shown below. Finally colour the surfaces by orientations. This is done in paraview (see 001.py, 112.py etc.)
+- However the time it requires to reach this state follows a power law according to Mullins and it's heavily dependent on the particle size. Since the transient shape is of interest here we only allow it to evolve for certain time. The result is shown below. Finally colour the surfaces by orientations. This is done in paraview (see 001.py, 112.py etc.)
 
 .. image:: https://github.com/Ezone2016/surface-flow/blob/master/sequence2.gif
 
