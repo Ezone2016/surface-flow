@@ -30,7 +30,7 @@ some paraview post-processing scripts to highlight different orientations in col
 
 .. image:: https://github.com/Ezone2016/surface-flow/blob/master/inverse1.png
 
-- A-TiO2 $\gamma$-plot inner convex hull can be readily extracted from above:
+- A-TiO2 gamma-plot inner convex hull can be readily extracted from above:
 
 .. image:: https://github.com/Ezone2016/surface-flow/blob/master/xi2.png
 
